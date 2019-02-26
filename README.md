@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+                                                          Alexander Rouse
+                                                          Oceanside, California 92054
+                                                          (916) 578-2522
+                                                          Rouse.C.Alex@gmail.com
 
-You can use the [editor on GitHub](https://github.com/AlexanderRouse/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PROFESSIONAL SUMMARY
+Results-oriented, self motivated professional, with a passion for success. Strong leadership experience, effective at communicating with people of various backgrounds inspiring camaraderie and success. My ethics are such that I understand my work is a direct reflection of my employer’s reputation. Adept at showing decisiveness under pressure and changing circumstances, continuing to meet deadlines.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Secret Security Clearance 
+-Leadership experience
+-Adept at conflict resolution 
+-Training and mentoring 
+-Prioritizes deadlines
+-Inspecting and maintaining equipment
 
-### Markdown
+EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Squad Leader, Assaultman, U.S. Marine Corps, 2014 - 2018  
+-Ensured personnel were punctual to the organized events, to maintain accountability for the company
+-Developed a mentoring program which led to an increase of individual training and   improved team cohesion
+-Supervised, trained and ensured the safety and welfare of all assigned personnel and sustained a 100% safety record
+-Supported personnel in counseling and evaluation of growth and use of resources 
 
-```markdown
-Syntax highlighted code block
+EDUCATION
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexanderRouse/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Computer science, Java, two years 
+-Leading Marines Course
+-Combat Lifesaver 
+-Corporals Course
+-Fiscal Safety and Sexual Assault Prevention training
+	
+ 
