@@ -1,9 +1,9 @@
-                                        -------------------     ----------------------------
-					Alexander Rouse
+                                       
+					*Alexander Rouse*
                                         Oceanside, California 92054
                                         (916) 578-2522
                                         Rouse.C.Alex@gmail.com
-					-------------------     ----------------------------
+					
 
 PROFESSIONAL SUMMARY
 ---------
@@ -11,11 +11,17 @@ PROFESSIONAL SUMMARY
 Results-oriented, self motivated professional, with a passion for success. Strong leadership experience, effective at communicating with people of various backgrounds inspiring camaraderie and success. My ethics are such that I understand my work is a direct reflection of my employer’s reputation. Adept at showing decisiveness under pressure and changing circumstances, continuing to meet deadlines.  
 
 • Secret Security Clearance 
+
 • Leadership experience
+
 • Adept at conflict resolution 
+
 • Training and mentoring 
+
 • Prioritizes deadlines
+
 • Inspecting and maintaining equipment
+
 
 EXPERIENCE
 ---------
