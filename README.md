@@ -22,11 +22,11 @@ EXPERIENCE
 ---------
 
 *Squad Leader, Assaultman, U.S. Marine Corps, 2014 - 2018*<br /> 
-<br />
+* Achieved the rank of Corporal,  a non-commissioned officer and oversaw squad growth 
 * Ensured personnel were punctual to the organized events, to maintain accountability for the company<br />
 * Developed a mentoring program which led to an increase of individual training and   improved team cohesion<br />
 * Supervised, trained and ensured the safety and welfare of all assigned personnel and sustained a 100% safety record<br />
-* Supported personnel in counseling and evaluation of growth and use of resources<br />
+* Supported personnel in counseling and evaluation of development and use of resources<br />
 
 EDUCATION
 ---------
