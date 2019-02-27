@@ -1,7 +1,7 @@
-Alexander Rouse<br />
-1973 Apple St<br />
-Oceanside, California 92054<br />
-Rouse.C.Alex@gmail.com<br />
+Alexander Rouse<br /><p align="center">
+1973 Apple St<br /><p align="center">
+Oceanside, California 92054<br /><p align="center">
+Rouse.C.Alex@gmail.com<br /><p align="center">
 
 PROFESSIONAL SUMMARY
 ---------
@@ -32,6 +32,7 @@ EDUCATION
 * Computer science, Java, two years<br />
 * Leading Marines Course<br />
 * Combat Lifesaver<br />
+* Honor graduate, Combat Hunter school<br />
 * Fiscal Safety and Sexual Assault Prevention training<br />
 
 	
