@@ -1,7 +1,3 @@
----
-title: "Alexander Rouse's Resume"
-date: 2019-02-26
----
 Alexander Rouse<br />
 1973 Apple St<br />
 Oceanside, California 92054<br />
