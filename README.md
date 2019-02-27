@@ -1,7 +1,16 @@
-->Alexander Rouse<-
-->1973 Apple St<-
-->Oceanside, California 92054<-
-->Rouse.C.Alex@gmail.com<-
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+Alexander Rouse<br />
+1973 Apple St<br />
+Oceanside, California 92054<br />
+Rouse.C.Alex@gmail.com<br />
 
 PROFESSIONAL SUMMARY
 ---------
