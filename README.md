@@ -31,6 +31,7 @@ EXPERIENCE
 EDUCATION
 ---------
 
+* Miracosta College, 2015 - present<br />
 * Computer science, Java, two years<br />
 * Leading Marines Course<br />
 * Combat Lifesaver<br />
