@@ -2,7 +2,7 @@ Alexander Rouse\
 1973 Apple St\
 Oceanside, California 92054\
 (916) 578-2522\
-Rouse.C.Alex@gmail.com\
+Rouse.C.Alex@gmail.com
 
 PROFESSIONAL SUMMARY
 ---------
