@@ -21,7 +21,7 @@ Results-oriented, self motivated professional, with a passion for success. Stron
 EXPERIENCE
 ---------
 
-Squad Leader, Assaultman, U.S. Marine Corps, 2014 - 2018<br /> 
+*Squad Leader, Assaultman, U.S. Marine Corps, 2014 - 2018*<br /> 
 <br />
 * Ensured personnel were punctual to the organized events, to maintain accountability for the company<br />
 * Developed a mentoring program which led to an increase of individual training and   improved team cohesion<br />
