@@ -1,8 +1,7 @@
-Alexander Rouse\
-1973 Apple St\
-Oceanside, California 92054\
-(916) 578-2522\
-Rouse.C.Alex@gmail.com
+Alexander Rouse<br />
+1973 Apple St<br />
+Oceanside, California 92054<br />
+Rouse.C.Alex@gmail.com<br />
 
 PROFESSIONAL SUMMARY
 ---------
@@ -27,13 +26,9 @@ EXPERIENCE
 
 
 Squad Leader, Assaultman, U.S. Marine Corps, 2014 - 2018  
----------
 * Ensured personnel were punctual to the organized events, to maintain accountability for the company
-
 * Developed a mentoring program which led to an increase of individual training and   improved team cohesion
-
 * Supervised, trained and ensured the safety and welfare of all assigned personnel and sustained a 100% safety record
-
 * Supported personnel in counseling and evaluation of growth and use of resources
 
 EDUCATION
