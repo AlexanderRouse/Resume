@@ -1,7 +1,7 @@
- Alexander Rouse<br /><p align="center">
- 1973 Apple St<br /><p align="center">
- Oceanside, California 92054<br /><p align="center">
- Rouse.C.Alex@gmail.com<br /><p align="center">
+ Alexander Rouse<p align="center">
+ 1973 Apple St<p align="center">
+ Oceanside, California 92054<p align="center">
+ Rouse.C.Alex@gmail.com<p align="center">
 
 PROFESSIONAL SUMMARY
 ---------
