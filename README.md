@@ -31,7 +31,7 @@ EXPERIENCE
 EDUCATION
 ---------
 
-* Miracosta College, 2015 - present<br />
+* Central Texas College, 2016-2017; Miracosta College, 2015 - present<br />
 * Introduction to Computing<br />
 * Computer Science I - Beginning Java<br />
 * Computer Science II - Advanced Java<br />
