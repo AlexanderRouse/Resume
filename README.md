@@ -37,7 +37,7 @@ EDUCATION
 * Computer Science II - Advanced Java<br />
 * Computer Science III - Data Structures & Algorithms - currently enrolled<br />
 * Leading Marines, Combat Lifesaver <br />
-* Honor graduate, Combat Hunter school<br />
+* Awarded Honor graduate at USMC Combat Hunter school<br />
 
 
 	
