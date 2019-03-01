@@ -32,11 +32,13 @@ EDUCATION
 ---------
 
 * Miracosta College, 2015 - present<br />
-* Computer Science, Java, two years<br />
-* Leading Marines Course<br />
-* Combat Lifesaver<br />
+* Introduction to Computing<br />
+* Computer Science I - Beginning Java<br />
+* Computer Science II - Advanced Java<br />
+* Computer Science III - Data Structures & Algorithms - currently enrolled<br />
+* Leading Marines, Combat Lifesaver <br />
 * Honor graduate, Combat Hunter school<br />
-* Fiscal Safety and Sexual Assault Prevention training<br />
+
 
 	
  
