@@ -11,9 +11,9 @@ PROFESSIONAL SUMMARY
 Results-oriented, self motivated professional, with a passion for computer science. Strong leadership experience, effective at communicating with people of various backgrounds inspiring camaraderie and success. My ethics are such that I understand my work is a direct reflection of my employer’s reputation. Adept at showing decisiveness under pressure and changing circumstances, continuing to meet deadlines.  
 
 * Secret Security Clearance<br />
-* Leadership experience<br />
+* Leadership and mentoring experience<br />
+* Proficiency with Java code<br />
 * Adept at conflict resolution<br />
-* Training and mentoring<br />
 * Prioritizes deadlines<br />
 * Inspection and maintenance of equipment<br />
 
