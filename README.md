@@ -35,8 +35,8 @@ EDUCATION
 * Introduction to Computing<br />
 * Computer Science I - Beginning Java<br />
 * Computer Science II - Advanced Java<br />
-* Computer Science III - Data Structures & Algorithms - currently enrolled<br />
-* Leading Marines, Combat Lifesaver <br />
+* Computer Science III - Data Structures & Algorithms <br />
+* Python 1
 * Awarded Honor Graduate at USMC Combat Hunter school<br />
 
 
